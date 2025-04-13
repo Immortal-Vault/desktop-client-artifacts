@@ -1,10 +1,10 @@
 {
   "version": "0.0.9",
   "notes": "Release 0.0.9",
-  "pub_date": "2025-04-13T18:31:49.202Z",
+  "pub_date": "2025-04-13T18:42:49.646Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM0RxR3lLZEJaSk1VS00vdXdXd2h6UkY2aXVTTkNFTjlleXA0MDl2SE5DVUs1QTFIeDRNb0NOSUNtTG9IWVVrSVJ0Q1BYN3poNERzRDVJN0EwNHlvbW4vOTFqU05BN2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTY5MTA4CWZpbGU6SW1tb3J0YWwgVmF1bHRfMC4wLjlfeDY0LXNldHVwLmV4ZQp5eEgwZVplSGQvbCtsVld3aUp6M0JBS2dsVXBmblRXYlJTK2RLNmNnTW9DaFJxbFhPV2xKY3ZaUGI3bXYvUjdkUjZINi8vOWF3U2d6ZHI4OTRzWGxBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM0RxR3lLZEJaSlBpSFRHNXc3bDJVMlZjU0lGakcySUVCRi9DR002cGdwbFJSTDNTcGlXVHNDZTdGcHRtU1cwYjVjUUhMQUJrZ0xxWlg4ODBxZ1JwWWVwdXlQVFpidmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTY5NzY5CWZpbGU6SW1tb3J0YWwgVmF1bHRfMC4wLjlfeDY0LXNldHVwLmV4ZQp5OHRqOXNxTWdoMFBtSTloRUsxZkJTTlcycWlDUS9hOGw1cVl6RmMxMHZjVHhyV1ZwM1YxbC9HbEcwMDZySzlFQnZDcXlsNVVrWEdvdU1YVWk1UWNCdz09Cg==",
       "url": "https://github.com/Immortal-Vault/desktop-client/releases/latest/download/Immortal.Vault_0.0.9_x64-setup.exe"
     }
   }
