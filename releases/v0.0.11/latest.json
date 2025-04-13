@@ -1,0 +1,11 @@
+{
+  "version": "0.0.11",
+  "notes": "Release 0.0.11",
+  "pub_date": "2025-04-13T21:59:40.664Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM0RxR3lLZEJaSkFUNzVwRllVTjF5ZTZsVlFVWWU2dXp5RFEzWEZoMEhBaFhGS005Mkc2R2diOEk0elkxYTJFVUN1WUFzYzFKUHdCdWRIZnZMRlRHZnk2OXJ6bG5OQ3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTgxNTgwCWZpbGU6SW1tb3J0YWwgVmF1bHRfMC4wLjExX3g2NC1zZXR1cC5leGUKUGVOVzgwbXcrcG1seUV5LzVDa3dhZlVPNUhnOHpUSmt3Mzd0RnRvSTdWYWFiQWtIczk3UEhvYmIzUElQWVMvdjNFdEZuY2JVbjc5YmdwUGJpck4wQUE9PQo=",
+      "url": "https://github.com/Immortal-Vault/desktop-client/releases/latest/download/Immortal.Vault_0.0.11_x64-setup.exe"
+    }
+  }
+}
