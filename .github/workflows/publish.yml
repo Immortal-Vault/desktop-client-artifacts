@@ -27,8 +27,9 @@ jobs:
 
       - name: 🧹 Clean up repository except workflows
         run: |
-          find . -mindepth 1 -maxdepth 1 ! -name '.github' -exec rm -rf {} +
+          find . -mindepth 1 -maxdepth 1 ! -name '.github' ! -name '.git' ! -name '.' -exec rm -rf {} +
           find .github -mindepth 1 -maxdepth 1 ! -name 'workflows' -exec rm -rf {} +
+
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add -A
