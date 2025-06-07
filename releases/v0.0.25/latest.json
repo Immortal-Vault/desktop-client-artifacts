@@ -1,0 +1,11 @@
+{
+  "version": "0.0.25",
+  "notes": "Release 0.0.25",
+  "pub_date": "2025-06-07T11:26:33.169Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM0RxR3lLZEJaSkU3SEVRclpaeVBsb0F0SHB4WEl2bzBUNW1SSmVmelhQNGRtWmhoOGJIWVAvQm02bnpyUDM4YmFvZlhhMkRFMUNmMFdKdGxNbnkwUVRFMUEwWW4zN3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5Mjk1NTkyCWZpbGU6SW1tb3J0YWwgVmF1bHRfMC4wLjI1X3g2NC1zZXR1cC5leGUKeGRYVlVzS1RjMGE0d2pqNGpjQkR5eSsxcmR2MC95M1JKTzhMcTJsc1VIdU5tZ1JWbWlhdUlZcHpOT1ExNjJza0Rwa1FwOUpFU0ZhSkU5L092TkNWQWc9PQo=",
+      "url": "https://github.com/Immortal-Vault/desktop-client-artifacts/releases/latest/download/Immortal.Vault_0.0.25_x64-setup.exe"
+    }
+  }
+}
